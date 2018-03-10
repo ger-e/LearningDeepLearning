@@ -1,3 +1,6 @@
 [submodule "Generative-Model-For-Image-Generation"]
 	path = Generative-Model-For-Image-Generation
 	url = https://github.com/vishalvijay18/Generative-Model-For-Image-Generation
+[submodule "variational-autoencoder"]
+	path = variational-autoencoder
+	url = https://github.com/altosaar/variational-autoencoder
